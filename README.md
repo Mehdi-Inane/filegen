@@ -13,13 +13,13 @@ Cette commande créera plusieurs dossier, l'éxecutable se trouvera au niveau du
 #  Utilisation du logiciel:
 
 Ce logiciel a été développé afin de génerer des fichier Matbase, Matfinale et MatInter, pour les tâches VOL et Hoppy. Pour chaque fichier, trois sont génerés dépendant de la nature de la réponse (0, D ou M). Ce sont des fichiers Excel (.xlsx)
-Mode d'emploi: 
--Il faut tout d'abord sélectionner l'emplacement de destination, où seront stockés les fichiers générés par le programme. Ceux-ci seront stockés dans un dossier nommé par défaut created_files. Il faut donc vérifier l'absence d'un dossier de ce nom dans l'emplacement sélectionné, sinon il sera écrasé et remplacé par le nouveau dossier généré.
+## Mode d'emploi: 
+* Il faut tout d'abord sélectionner l'emplacement de destination, où seront stockés les fichiers générés par le programme. Ceux-ci seront stockés dans un dossier nommé par défaut created_files. Il faut donc vérifier l'absence d'un dossier de ce nom dans l'emplacement sélectionné, sinon il sera écrasé et remplacé par le nouveau dossier généré.
 
--Ensuite, il faut mettre en entrée les fichiers CLAN représentant chacun un sujet. Pour avoir l'intégralité des informations dans le fichier, il faut veiller à insérer l'ensemble des fichiers CLAN. Le bouton à utiliser pour insérer les fichiers est le bouton "Explorer".
+* Ensuite, il faut mettre en entrée les fichiers CLAN représentant chacun un sujet. Pour avoir l'intégralité des informations dans le fichier, il faut veiller à insérer l'ensemble des fichiers CLAN. Le bouton à utiliser pour insérer les fichiers est le bouton "Explorer".
 
--Dans le cas d'une erreur, le bouton "Tout effacer" permet d'annuler l'importation en cours et de réinitialiser le répertoire de fichiers CLAN sélectionnés.
--Quand la sélection est faite, il suffit d'appuyer sur le bouton exécuter afin de commencer le programme.
+* Dans le cas d'une erreur, le bouton "Tout effacer" permet d'annuler l'importation en cours et de réinitialiser le répertoire de fichiers CLAN sélectionnés.
+* Quand la sélection est faite, il suffit d'appuyer sur le bouton exécuter afin de commencer le programme.
 
 Le logiciel est muni d'un correcteur de fichiers CLAN. Il traversera alors chaque fichier afin de vérifier si aucune des erreurs suivantes n'est constatée:
 * Erreur sur le nombre de champs ou division erronée des champs
