@@ -22,10 +22,10 @@ Mode d'emploi:
 -Quand la sélection est faite, il suffit d'appuyer sur le bouton exécuter afin de commencer le programme.
 
 Le logiciel est muni d'un correcteur de fichiers CLAN. Il traversera alors chaque fichier afin de vérifier si aucune des erreurs suivantes n'est constatée:
-*Erreur sur le nombre de champs ou division erronée des champs
-*Présence d'un caractère interdit lors du codage (",;!?.<>[]@")
-*Présence d'un espace dans un des champs
-*Absence du dernier caractère "{"
+* Erreur sur le nombre de champs ou division erronée des champs
+* Présence d'un caractère interdit lors du codage (",;!?.<>[]@")
+* Présence d'un espace dans un des champs
+* Absence du dernier caractère "{"
 Si une erreur est constatée, le logiciel vous signalera le nom du fichier et une liste des erreurs présentes réferencées par lignes. Dans le cas où plusieurs fichiers sont erronées, des fenêtres contenant ces messages d'erreur s'ouvrent au fur et à mesure. Ainsi, pour passer aux erreurs présentes dans un autre fichier, il suffit de fermer la fenêtre contenant les erreurs du fichier précédent.
 Sinon, le programme fait son éxécution et génère les fichiers Matbase.
 
