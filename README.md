@@ -30,9 +30,9 @@ Si une erreur est constatée, le logiciel vous signalera le nom du fichier et un
 Sinon, le programme fait son éxécution et génère les fichiers Matbase.
 
 Pour le choix de la tâche VOL, l'output sera le suivant:
-*Un fichier dump qui divise chaque ligne %cod des fichiers CLAN en champs d'intérêt par sujet et par stimuli, qui seront réutilisés par la suite pour génerer les fichiers suivants.
-*Des fichiers Matbase 0, D et M.
-*Des fichiers Matinter 0, D et M classant et dénombrant les réponses selon leur place dans la phrase (verbe et périphérie)
-*Des fichiers Matinterbis 0, D et M classant les réponses selon leur place dans la phrase (verbe et périphérie). Ici, on ne compte plus le nombre exact de réponses, mais le nombre de type de réponses.
-*Des fichiers Matfinale 0,D et M classant et dénombrant les réponses quelle que soit leur place dans la phrase.
-*Des fichiers Matfinalebis 0, D et M classant les réponses quelle que soit leur place dans la phrase (verbe et périphérie). Ici, on ne compte plus le nombre exact de réponses, mais le nombre de type de réponses.
+* Un fichier dump qui divise chaque ligne %cod des fichiers CLAN en champs d'intérêt par sujet et par stimuli, qui seront réutilisés par la suite pour génerer les fichiers suivants.
+* Des fichiers Matbase 0, D et M.
+* Des fichiers Matinter 0, D et M classant et dénombrant les réponses selon leur place dans la phrase (verbe et périphérie)
+* Des fichiers Matinterbis 0, D et M classant les réponses selon leur place dans la phrase (verbe et périphérie). Ici, on ne compte plus le nombre exact de réponses, mais le nombre de type de réponses.
+* Des fichiers Matfinale 0,D et M classant et dénombrant les réponses quelle que soit leur place dans la phrase.
+* Des fichiers Matfinalebis 0, D et M classant les réponses quelle que soit leur place dans la phrase (verbe et périphérie). Ici, on ne compte plus le nombre exact de réponses, mais le nombre de type de réponses.
